@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi 👋 I'm Pravalika  
 
-<!--
-**PravalikaSornapudi/PravalikaSornapudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech (Information Technology) student  
+💻 Aspiring Software Developer | Web Developer  
 
-Here are some ideas to get you started:
+🚀 Skills & Interests  
+- Core Java  
+- Data Structures & Algorithms  
+- Frontend Development (HTML, CSS, JavaScript, Bootstrap)   
+- Machine Learning & NLP (Project Experience)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Currently Working On  
+- Placement preparation (DSA, Core CS subjects)  
+- Full Stack projects using Web technologies  
+
+🏆 Achievements & Learning  
+- 4⭐ Java @ HackerRank
+- Mini project on Cyberbullying Detection using NLP  
+- Google Cloud Computing & Generative AI (GDSC)  
+- Microsoft Asia AI Odyssey Challenge  
+- Cybersecurity Internship (Network & Application Security)  
+
+🎯 Goals  
+- Build strong problem-solving skills  
+- Crack product-based company interviews  
+- Become a skilled full-stack developer  
+
+📫 Connect with me  
+- LinkedIn: https://www.linkedin.com/in/pravalika-sornapudi-328949288/
+- Email: pravalikasornapudi@gmail.com
